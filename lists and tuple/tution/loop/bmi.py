@@ -11,3 +11,4 @@ elif(bmi>30):
     print("obesity")
 else:
     print("Bhai km km khaa, mr jayega...")
+    
