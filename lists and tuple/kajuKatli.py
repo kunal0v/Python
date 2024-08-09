@@ -8,7 +8,6 @@ for i in range (1,x):
         else:
             print(" ",end="")
     print()
-
 for i in range (x-2,0,-1):
     for j in range(1,x-i+1):
         print(" ",end="")
