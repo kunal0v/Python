@@ -1,0 +1,5 @@
+x=int(input("Enter the no. :"))
+print(type(x))
+x_str=x.__str__()
+print(type(x_str))
+print(len(x_str))
