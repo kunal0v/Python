@@ -6,4 +6,4 @@ for i in range(len(x)):
             continue
         else:
             count+=1
-print(count),9
+print(count)
