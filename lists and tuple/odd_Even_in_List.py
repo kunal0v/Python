@@ -6,5 +6,5 @@ for i in x:
         e=e+[i]
     else:
         o=o+[i]
-print("even no. are :",e)
-print("odd no. are :",o)
+print("even no. from list are :",e)
+print("odd no. from list are :",o)
