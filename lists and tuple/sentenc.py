@@ -8,7 +8,5 @@ for i in range(len(x)):
             count += 1
             ch = True
     else:
-        
         ch = False
-
 print(count)
