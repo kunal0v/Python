@@ -4,7 +4,7 @@ ch=False
 y="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 for i in x:
     if(i!=" "):
-        if not ch:
+        if not ch and i in y:
             wc+=1
             ch=True
     else:
