@@ -11,10 +11,10 @@ print(type(myVariabe))
 a=(1,3,4,5,6,6,7)
 print(type(a))
 
-n1='kunal'
-n2="kunal"
-n3='''kunal'''
-print(n1,n2,n3)
+# n1='kunal'
+# n2="kunal"
+# n3='''kunal'''
+# print(n1,n2,n3)
 
 b=39
 c=True
