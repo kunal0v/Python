@@ -1,3 +1,3 @@
 def hello():
-    print("HEllo I am Some")
+    print("Hello I am Some")
 hello()
