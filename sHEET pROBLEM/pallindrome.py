@@ -1,6 +1,5 @@
 x=int (input("Enter the value :"))
 y=x
-
 pd=0
 while(x!=0):
     r= x%10

@@ -17,3 +17,4 @@ for i in range (x-2,0,-1):
         else:
             print(" ",end="")
     print()
+
