@@ -1,4 +1,4 @@
-x=input('Enter the string:')
+x=input('Enter the string: ')
 def rev(x):
     if (len(x) == 0):
         return ""
