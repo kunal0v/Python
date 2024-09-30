@@ -3,7 +3,6 @@ dic={
     "program":"bca",
     "roll":23
 }
-
 # dic.clear()
 # print(dic)
 # dic.pop("name")
