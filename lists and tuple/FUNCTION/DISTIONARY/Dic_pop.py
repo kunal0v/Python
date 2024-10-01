@@ -1,7 +1,7 @@
 dic={
-    "name":"Amit",
+    "name":"farzi_Amit",
     "program":"bca",
-    "roll":23
+    "roll":23,
 }
 # dic.clear()
 # print(dic)
