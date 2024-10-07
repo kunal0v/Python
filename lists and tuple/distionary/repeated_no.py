@@ -3,4 +3,3 @@ dic={}
 for i in li:
     dic[i]=li.count(i)
 print(dic)
-
