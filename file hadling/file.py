@@ -1,0 +1,10 @@
+file=open("file.txt","r")
+# print(file.read())
+# print(file.readline())
+# print(file.readlines())
+
+print(file.readline())
+file.seek(0)
+print(file.readline())
+file.close()
+file=open("file2.txt","w")
