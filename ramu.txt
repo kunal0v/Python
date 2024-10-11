@@ -1,0 +1,3 @@
+before appends
+yes appends mode is done
+one more time append and read
