@@ -1,9 +1,9 @@
 st="i am kunal the coder"
-# (name.endswith)------>for checking that the words end with the same word "also it gives answer like bookean "
+# (name.endswith)------>for checking that the words end with the same word "also it gives answer like boolean "
 print(st.endswith("er"))
 print(st.endswith("the"))
 
-#(name.capitalize()) ----> to capatilize first character of the word
+#(name.capitalize()) ----> ONlY capatilize first character of the word
 print(st.capitalize())
 
 #   name.replace(old,new)
