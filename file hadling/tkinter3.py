@@ -9,7 +9,7 @@ entry.pack(pady=20)
 
 def show_input():
     user_input=entry.get("1.0",tk.END)
-    label.config(text=f"User entered:{user_input}")
+    label.config(text=f"User entered:{user_input}",bg="red",fg="black")
 
 button = tk.Button(root,text="show",command=show_input)
 button.pack()
